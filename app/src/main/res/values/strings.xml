@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="colorButton">Color</string>
+    <string name="foodButton">Food</string>
+    <string name="dayOfTheWeekButton">Day of the Week</string>
+    <string name="holidayButton">Holiday</string>
+    <string name="bandButton">Music Band</string>
+    <string name="thingToDoButton">Thing to do when bored</string>
+    <string name="aboutMenu">About Me</string>
+    <string name="aboutMessage">I need sleep.</string>
+    <string name="aboutTitle">By Andrew New</string>
+</resources>
